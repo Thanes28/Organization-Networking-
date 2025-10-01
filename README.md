@@ -13,7 +13,7 @@ The project demonstrates core networking concepts and real-world enterprise-leve
 
 ### 🖼️ Network Topology
 <p align="center">
-  <img src="./95cb47ec-8f2a-42a9-9f0d-18d6ae80762f.png" width="800" alt="Organizational Network Topology"/>
+  <img src="network-diagram.png" width="800" alt="Organizational Network Topology"/>
 </p>
 
 ---
